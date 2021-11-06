@@ -15,3 +15,4 @@ vue, react, react-native, css 등 프론트 관련 업무를 하고 있어요.
 
 주로 퍼블을 많이 배웠어요.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kujarung&show_icons=true&theme=radical)
